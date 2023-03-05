@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Welcome to CodeIgniter 4!</title>
+    <title>PT. Bangun Manunggal Trisno</title>
     <meta name="description" content="The small framework with powerful features">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" type="image/png" href="/favicon.ico">
@@ -209,12 +209,6 @@
                 <button onclick="toggleMenu();">&#9776;</button>
             </li>
             <li class="menu-item hidden"><a href="#">Home</a></li>
-            <li class="menu-item hidden"><a href="https://codeigniter4.github.io/userguide/" target="_blank">Docs</a>
-            </li>
-            <li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
-            <li class="menu-item hidden"><a
-                    href="https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md" target="_blank">Contribute</a>
-            </li>
         </ul>
     </div>
 
